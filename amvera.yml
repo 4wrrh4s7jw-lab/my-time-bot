@@ -1,0 +1,5 @@
+meta:
+  environment: python
+  tool: pip
+run:
+  command: python3 bot.py
